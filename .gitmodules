@@ -10,14 +10,6 @@
 	path = meta-qt5
 	url = https://github.com/meta-qt5/meta-qt5.git
 	branch = dunfell
-[submodule "meta-security"]
-	path = meta-security
-	url = git://git.yoctoproject.org/meta-security.git
-	branch = dunfell
-[submodule "meta-jumpnow"]
-	path = meta-jumpnow
-	url = https://github.com/jumpnow/meta-jumpnow.git
-	branch = dunfell
 [submodule "meta-bbb"]
 	path = meta-bbb
 	url = git://github.com/jumpnow/meta-bbb
