@@ -11,9 +11,9 @@
 	url = https://github.com/meta-qt5/meta-qt5.git
 	branch = dunfell
 [submodule "meta-bbb"]
-	path = meta-bbb
-	url = git://github.com/jumpnow/meta-bbb
-	branch = dunfell
+        path = meta-bbb
+        url = git@github.com:JGSandom/meta-bbb.git
+        branch = dunfell
 [submodule "meta-env-monitor"]
 	path = meta-env-monitor
 	url = git@github.com:JGSandom/meta-env-monitor.git
