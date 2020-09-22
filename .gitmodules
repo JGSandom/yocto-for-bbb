@@ -14,3 +14,7 @@
 	path = meta-bbb
 	url = git://github.com/jumpnow/meta-bbb
 	branch = dunfell
+[submodule "meta-env-monitor"]
+	path = meta-env-monitor
+	url = git@github.com:JGSandom/meta-env-monitor.git
+	branch = master
